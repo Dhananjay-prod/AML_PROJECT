@@ -92,5 +92,6 @@ The model is evaluated using **precision** — out of all the days it predicted 
 - Threshold tuning via `predict_proba`
 - Precision-focused model evaluation
 - yfinance data fetching with local CSV caching
+  
 Dhananjay Kumar 1BI20AI009
 Harshil Pathria 1BI20AI016
